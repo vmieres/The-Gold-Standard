@@ -22,7 +22,7 @@ From:
 
 + Mexico and Russsia had the lowest minimum wages over the years.
 
-+ Netherlands and Luxemberg had the highest minimum wages over the years.
++ Netherlands and Luxembourg had the highest minimum wages over the years.
 
 + New Zealand and the UK are continuosly increasing the minimum wage over the years.
 
