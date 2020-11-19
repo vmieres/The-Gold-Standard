@@ -36,7 +36,20 @@ From:
 
 + Gold behaves like a currency, in a sense, so it is sensitive to changes in exchange rates between national fiat currencies and the divergence in monetary policies of the major central banks. 
 
+## **Plots**
 
+
+![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/gold_line_plot.png)
+
+![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/hourly_minimum_wage_from_2000_2019.png)
+
+![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/hours_to_purchase_gold.png)
+
+![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/MC_fiveyear_dist_plot.png)
+
+![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/top%20_5_countries.png)
+
+![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/map.png)
 
 
 
