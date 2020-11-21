@@ -40,17 +40,23 @@ From:
 
 
 ![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/gold_line_plot.png)
+This graph shows Price of gold from the 2001 up until 2019. We decided to select this date range, so we can have an ample timeframe to observe enough of gold’s price fluctuations throughout different economic climates. As shown, the price of gold increased heavily after the Great Recession in 2008 because people flocked to the safe heaven asset in fears of the dollar losing value.
 
 ![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/hourly_minimum_wage_from_2000_2019.png)
+This graph plots the hourly minimum wage from 2001 through 2019. Each line represents a country’s hourly minimum wage (in USD) at a given time. 
 
 ![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/hours_to_purchase_gold.png)
+With this graph, we visualized the amount of work hours it takes for a person earn enough money in their native currency to buy 1 troy oz of gold. A higher a curve suggests that it would take a larger amount of time to work in order to buy an ounce of gold.
+
 
 ![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/MC_fiveyear_dist_plot.png)
+The histogram illustrates the normal distribution of the return of gold investment from our Monte Carlo simulations over the next five years. The distribution is normal and right skewed distribution. 
 
 ![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/top%20_5_countries.png)
+The parallel coordinate chart maps out the minimum wages from the 5 countries with highest minimum wages. Each line represents the minimum wage from a given year and illustrates how the minimum wage varies from country to country in that year.
 
 ![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/map.png)
-
+This map displays the location of each country the currencies we included in our project. Each circle proportionally represents how much time it would take to buy an ounce of gold. The bigger a circle is the more hours of work are needed to buy an ounce of gold. 
 
 
 
