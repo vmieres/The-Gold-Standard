@@ -26,11 +26,11 @@ From:
 
 + New Zealand and the UK are continuosly increasing the minimum hourly-wage over the years.
 
-+ US has high standard of living, but it is not among the top 3 countreis with highest minimum hourly-wage.
++ US has high standard of living, but it is not among the top 5 countreis with the highest minimum hourly-wage.
 
 + European countries tend to pay higher minimum hourly-wage and South American countries tend to pay lower minimum hourly-wage.
 
-+ Cos of living in each country can be considered for further studies.
++ Cost of living in each country can be considered for further studies.
 
 
 ## **Conclusion**
