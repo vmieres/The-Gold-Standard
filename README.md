@@ -9,7 +9,7 @@ Gold's significance in the history of commerce and the maintained international 
 
 
 ## **Procedures**
-We gathered the data for the Average Hourly Wages from the majority of developed countries around the worldand and for the spot price of gold.
+We gathered the data for the Minimum Hourly-Wages around the world and for the price of 1 troy oz of gold.
 
 From:
 
@@ -20,24 +20,25 @@ From:
 ## **Insights & findings**
 
 
-+ Mexico and Russsia had the lowest minimum wages over the years.
++ Mexico had the lowest minimum hourly-wages over the years.
 
-+ Netherlands and Luxembourg had the highest minimum wages over the years.
++ Australia, Luxemburg, France, Germany, and Netherlands paid the highest minimum hourly-wages over the years.
 
-+ New Zealand and the UK are continuosly increasing the minimum wage over the years.
++ New Zealand and the UK are continuosly increasing the minimum hourly-wage over the years.
 
++ US has high standard of living, but it is not among the top 3 countreis with highest minimum hourly-wage.
 
 
 ## **Conclusion**
 
-+ This project used the gold price and U.S. dollar as currency to analyze the work hours to purchase the same amount of gold around the world, as this provides a clearer picture of the global economy. (the inverse of work hours = Purchasing Power)
++ This project used the gold price in U.S. dollar as currency to analyze the work hours to purchase the same amount (1 troy oz) of gold around the world, as this provides a clearer picture of the global economy. (the inverse of work hours = Purchasing Power)
 
-+ Weak currency is related to more work hours to buy  1 oz of gold. (e.g. current (Nov. 14, 2020) 1 Mexico Peso = 0.049 USD ~ 20 times more  work hours of US)
++ Weak currency is related to more work hours to buy  1 troy oz of gold. (e.g. current (Nov. 14, 2020) 1 Mexico Peso = 0.049 USD ~ 20 times more  work hours of US)
 
 + Gold behaves like a currency, in a sense, so it is sensitive to changes in exchange rates between national fiat currencies and the divergence in monetary policies of the major central banks. 
 
-## **Plots**
 
+## **Plots**
 
 ![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/gold_line_plot.png)
 This graph shows Price of gold from the 2001 up until 2019. We decided to select this date range, so we can have an ample timeframe to observe enough of gold’s price fluctuations throughout different economic climates. As shown, the price of gold increased heavily after the Great Recession in 2008 because people flocked to the safe heaven asset in fears of the dollar losing value.
