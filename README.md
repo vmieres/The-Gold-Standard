@@ -20,11 +20,11 @@ From:
 ## **Insights & findings**
 
 
-+ Mexico paid the lowest minimum hourly-wages over the years.
++ Mexico and Russia have paid the lowest minimum hourly-wages over the years.
 
 + Australia, Luxemburg, France, Germany, and Netherlands paid the highest minimum hourly-wages over the years.
 
-+ New Zealand and the UK are continuosly increasing the minimum hourly-wage over the years.
++ Korea and the UK have been continuosly increasing the minimum hourly-wage over the years.
 
 + US has high standard of living, but it is not among the top 5 countreis with the highest minimum hourly-wage.
 
