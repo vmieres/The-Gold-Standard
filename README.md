@@ -58,7 +58,7 @@ With this graph, we visualized the amount of work hours it takes for a person ea
 The histogram illustrates the normal distribution of the return of gold investment from our Monte Carlo simulations over the next five years. The distribution is normal and right skewed distribution. 
 
 ![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/top%20_5_countries.png)
-The parallel coordinate chart maps out the minimum wages from the 5 countries with highest minimum wages. Each line represents the minimum wage from a given year and illustrates how the minimum wage varies from country to country in that year.
+The parallel coordinate chart maps out the minimum hourly-wages over the years from the top 5 countries with the highest minimum hourly-wages. Each line represents the minimum hourly-wage in a given year and illustrates how the minimum wage varies from country to country in that year.
 
 ![](https://github.com/vmieres/The-Gold-Standard/blob/main/images/map.png)
 This map displays the location of each country the currencies we included in our project. Each circle proportionally represents how much time it would take to buy an ounce of gold. The bigger a circle is the more hours of work are needed to buy an ounce of gold. 
