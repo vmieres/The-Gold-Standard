@@ -17,7 +17,7 @@ From:
 
  https://www.investing.com/currencies/xau-usd-historical-data 
 
-## **Inference**
+## **Insights & findings**
 
 
 + Mexico and Russsia had the lowest minimum wages over the years.
